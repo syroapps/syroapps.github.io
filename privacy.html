@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Конфиденциальность — SYRO</title>
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo+2:wght@600;800&family=Golos+Text:wght@400;500&display=swap">
+<style>
+:root{--bg:#09090B;--fg:#F4F4F6;--muted:#A6A6AF;--line:#25252B;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 17px/1.65 "Golos Text","Segoe UI",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+main{max-width:760px;margin:0 auto;padding-block:56px 80px;padding-left:max(20px,env(safe-area-inset-left,0px));padding-right:max(20px,env(safe-area-inset-right,0px))}
+a{color:var(--fg)}
+.back{font:600 14px/1 "Exo 2",system-ui,sans-serif;letter-spacing:.06em;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--fg)}
+h1{font:800 clamp(32px,5vw,48px)/1.1 "Exo 2",system-ui,sans-serif;margin:28px 0 8px;text-wrap:balance}
+h2{font:600 21px/1.3 "Exo 2",system-ui,sans-serif;margin:40px 0 8px}
+p,li{color:var(--muted)}
+ul{padding-left:20px}
+.date{color:var(--muted);font-size:15px;margin:0 0 24px}
+.mail{user-select:all;color:var(--fg)}
+hr{border:0;border-top:1px solid var(--line);margin:40px 0}
+</style>
+</head>
+<body>
+<main>
+  <a class="back" href="index.html">← SYRO</a>
+  <h1>Конфиденциальность</h1>
+  <p class="date">Обновлено 7 ноября 2026</p>
+
+  <p>Коротко: программы SYRO не собирают и не отправляют ваши данные. Всё, что вы настраиваете, остаётся на вашем компьютере.</p>
+
+  <h2>Что хранят программы</h2>
+  <ul>
+    <li><b>SYRO Halo</b> — пункты меню и настройки внешнего вида, в папке <code>%AppData%\SYRO Halo</code>.</li>
+    <li><b>SYRO Aurora</b> — настройки программы в <code>%AppData%\SYRO Aurora</code>. Цвет и значок папки записываются в скрытые файлы внутри самой папки, так их показывает Windows.</li>
+    <li><b>SYRO Pulsar</b> — ваш календарь публикаций и настройки, в <code>%AppData%\SYRO Pulsar</code>.</li>
+    <li><b>SYRO Nova</b> — служебные файлы в <code>%LocalAppData%\SYRO Nova</code>. Фотографии Nova только показывает и сохраняет туда, куда вы скажете.</li>
+  </ul>
+  <p>Эти данные никуда не передаются. Удалите программу — и они удаляются вместе с ней или остаются только у вас.</p>
+
+  <h2>Когда программы выходят в интернет</h2>
+  <ul>
+    <li><b>SYRO Nova</b> при первом открытии фото в формате HEIC один раз скачивает модуль для их показа с сайта jsdelivr.net. Ваши фотографии при этом никуда не отправляются.</li>
+    <li><b>SYRO Halo</b>, когда вы добавляете в меню ссылку на сайт, скачивает значок этого сайта: с самого сайта или через сервис значков Google. Передаётся только адрес сайта, больше ничего.</li>
+    <li>SYRO Aurora и SYRO Pulsar в интернет не выходят. Если появится проверка обновлений, мы опишем её здесь до выхода.</li>
+  </ul>
+
+  <h2>Сайт syroapps.com</h2>
+  <p>На сайте нет рекламы, счётчиков посещений и файлов cookie. Сайт размещён на GitHub Pages: как и любой хостинг, GitHub может вести технические журналы запросов, например IP-адрес. Шрифты загружаются с Google Fonts.</p>
+
+  <h2>Письма</h2>
+  <p>Если вы пишете на <span class="mail">hello@syroapps.com</span>, мы видим ваш адрес и текст письма. Используем их только для ответа и никому не передаём.</p>
+
+  <hr>
+  <p>Вопросы о конфиденциальности: <span class="mail">hello@syroapps.com</span></p>
+</main>
+</body>
+</html>
