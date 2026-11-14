@@ -1,0 +1,15 @@
+{
+  "issued": "2026-11-14T21:51:18Z",
+  "apps": {
+    "halo": {
+      "version": "1.2.0",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.0/SYRO-Halo-Setup-1.2.0.exe",
+      "sha256": "c264d26b16b8e3299d0ea72cc0ffd6859b2ff2a5c863268ed47c78c85bc13d91",
+      "size": 2710707,
+      "notes": [
+        "Обновления приходят сами: раз в день программа проверяет новую версию",
+        "Меню SYRO: «О программе», «Активировать Pro», «Сообщить об ошибке»"
+      ]
+    }
+  }
+}
