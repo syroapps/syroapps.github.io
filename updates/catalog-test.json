@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-14T21:32:33Z",
+  "issued": "2026-11-14T21:33:34Z",
   "apps": {
     "halo": {
       "version": "1.1.93",
@@ -32,13 +32,13 @@
       ]
     },
     "nova": {
-      "version": "1.1.91",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.1.91/SYRO-Nova-Setup-1.1.91.exe",
-      "sha256": "80dfd76bf5937b69542f3666d18e6fa09a6738c5cfb3e3ea26f32be1f8aebbbb",
-      "size": 2543276,
+      "version": "1.1.93",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.1.93/SYRO-Nova-Setup-1.1.93.exe",
+      "sha256": "7b05734bd3932c668be2fc2f8f19545b80371e8a8772d3656d591888e743e662",
+      "size": 2545285,
       "notes": [
-        "Проверка обновлений SYRO",
-        "Это тестовое обновление 1.1.91"
+        "Pro: файлы лицензий и плашка «PRO ✓»",
+        "Окно «Активировать Pro»: код компьютера и «Отвязать этот компьютер»"
       ]
     }
   }
