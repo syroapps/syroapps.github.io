@@ -23,7 +23,7 @@
       ]
     },
     "pulsar": {
-      "version": "9.9.9",
+      "version": "1.1.91",
       "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.1.91/SYRO-Pulsar-Setup-1.1.91.exe",
       "sha256": "e6ebe4f2c71ad10fdeaf0b9329932be54135dab9da87f866208ded6cc0eacfda",
       "size": 2897763,
