@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-14T21:53:39Z",
+  "issued": "2026-11-14T21:54:49Z",
   "apps": {
     "halo": {
       "version": "1.2.0",
@@ -26,6 +26,16 @@
       "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.0/SYRO-Pulsar-Setup-1.2.0.exe",
       "sha256": "7bbab85823e36b89c4979ae48a7da59d56d4c1d0c38dd4cbc97ea0af3b488797",
       "size": 2899867,
+      "notes": [
+        "Обновления приходят сами: раз в день программа проверяет новую версию",
+        "Меню SYRO: «О программе», «Активировать Pro», «Сообщить об ошибке»"
+      ]
+    },
+    "nova": {
+      "version": "1.2.0",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.2.0/SYRO-Nova-Setup-1.2.0.exe",
+      "sha256": "ae4c9d356a2d4462d837767dd5a30654bb904881df24e5d38545b7a7c1f8b5f1",
+      "size": 2545106,
       "notes": [
         "Обновления приходят сами: раз в день программа проверяет новую версию",
         "Меню SYRO: «О программе», «Активировать Pro», «Сообщить об ошибке»"
