@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-14T21:31:22Z",
+  "issued": "2026-11-14T21:32:33Z",
   "apps": {
     "halo": {
       "version": "1.1.93",
@@ -22,13 +22,13 @@
       ]
     },
     "pulsar": {
-      "version": "1.1.91",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.1.91/SYRO-Pulsar-Setup-1.1.91.exe",
-      "sha256": "e6ebe4f2c71ad10fdeaf0b9329932be54135dab9da87f866208ded6cc0eacfda",
-      "size": 2897763,
+      "version": "1.1.93",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.1.93/SYRO-Pulsar-Setup-1.1.93.exe",
+      "sha256": "4762a69e2726977128c30690935e7f71940de47e35d6d870fb9495e2fd9d33bc",
+      "size": 2899617,
       "notes": [
-        "Проверка обновлений SYRO",
-        "Это тестовое обновление 1.1.91"
+        "Pro: файлы лицензий и плашка «PRO ✓»",
+        "Окно «Активировать Pro»: код компьютера и «Отвязать этот компьютер»"
       ]
     },
     "nova": {
