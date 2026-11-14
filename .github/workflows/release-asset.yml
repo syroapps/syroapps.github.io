@@ -1,0 +1,32 @@
+# Установщик обновления → GitHub Releases этого репозитория (ссылки из каталога syroapps.com/updates).
+# Claude присылает файл в ветку incoming (установщик + release.txt); здесь создаётся выпуск, ветка удаляется.
+name: Выпуск установщика
+
+on:
+  push:
+    branches: [incoming]
+
+jobs:
+  asset:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: incoming
+      - name: Выпуск
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          . <(sed 's/\r$//; s/^\xEF\xBB\xBF//' release.txt)
+          pre=""; [ "$channel" = test ] && pre="--prerelease"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            gh release upload "$tag" "$file" --clobber
+          else
+            gh release create "$tag" "$file" --title "$tag" --notes "SYRO $tag ($channel)" $pre --target main
+          fi
+          gh release view "$tag"
+      - name: Убрать ветку incoming
+        run: git push origin --delete incoming
