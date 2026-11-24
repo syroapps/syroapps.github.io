@@ -1,15 +1,14 @@
 {
-  "issued": "2026-11-24T20:29:16Z",
+  "issued": "2026-11-24T20:30:23Z",
   "apps": {
     "halo": {
-      "version": "1.2.3",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.3/SYRO-Halo-Setup-1.2.3.exe",
-      "sha256": "71fa26bb8bdacd26004c5b364145c3b94992b95665dfaeb25eb3aca12217af58",
-      "size": 2712967,
+      "version": "1.2.4",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.4/SYRO-Halo-Setup-1.2.4.exe",
+      "sha256": "7aab20fe42ef80af27acbc5c24ea09c48dbd4c2fe52b1f04a68114f7a25b015c",
+      "size": 2712718,
       "notes": [
-        "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
-        "«Отвязать этот компьютер» освобождает место для другого компьютера",
-        "Pro продлевается сам, без интернета работает до 14 дней"
+        "Исправлено: «Отвязать этот компьютер» показывал «нет связи», хотя компьютер отвязывался",
+        "Активация Pro через сервер SYRO"
       ]
     },
     "aurora": {
