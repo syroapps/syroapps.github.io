@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-24T20:31:19Z",
+  "issued": "2026-11-24T20:32:25Z",
   "apps": {
     "halo": {
       "version": "1.2.4",
@@ -32,14 +32,13 @@
       ]
     },
     "nova": {
-      "version": "1.2.3",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.2.3/SYRO-Nova-Setup-1.2.3.exe",
-      "sha256": "540a113ac8c41166437a0e87118dce9c0618e8e5dd25a9f7131c6c341c8f7c1e",
-      "size": 2547628,
+      "version": "1.2.4",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.2.4/SYRO-Nova-Setup-1.2.4.exe",
+      "sha256": "8d65fe21ebca389dc86bd5c9d2b479f5ebab71a3fbc6dd2eb5b186b304a3d062",
+      "size": 2548456,
       "notes": [
-        "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
-        "«Отвязать этот компьютер» освобождает место для другого компьютера",
-        "Pro продлевается сам, без интернета работает до 14 дней"
+        "Исправлено: «Отвязать этот компьютер» показывал «нет связи», хотя компьютер отвязывался",
+        "Активация Pro через сервер SYRO"
       ]
     }
   }
