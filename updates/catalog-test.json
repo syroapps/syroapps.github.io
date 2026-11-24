@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-24T20:16:27Z",
+  "issued": "2026-11-24T20:17:43Z",
   "apps": {
     "halo": {
       "version": "1.2.3",
@@ -35,10 +35,10 @@
       ]
     },
     "nova": {
-      "version": "1.2.2",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.2.2/SYRO-Nova-Setup-1.2.2.exe",
-      "sha256": "dfae83a76f7dcd147035de4596165799bbad7bba177c829b639f5dd89e8a62b8",
-      "size": 2547635,
+      "version": "1.2.3",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.2.3/SYRO-Nova-Setup-1.2.3.exe",
+      "sha256": "540a113ac8c41166437a0e87118dce9c0618e8e5dd25a9f7131c6c341c8f7c1e",
+      "size": 2547628,
       "notes": [
         "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
         "«Отвязать этот компьютер» освобождает место для другого компьютера",
