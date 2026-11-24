@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-24T20:10:53Z",
+  "issued": "2026-11-24T20:12:03Z",
   "apps": {
     "halo": {
       "version": "1.2.2",
@@ -35,12 +35,14 @@
       ]
     },
     "nova": {
-      "version": "1.2.1",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.2.1/SYRO-Nova-Setup-1.2.1.exe",
-      "sha256": "ffb12fff0555022b55b2dfa6831d7ea842dcb800be68494935a801134ef14372",
-      "size": 2545077,
+      "version": "1.2.2",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/nova-1.2.2/SYRO-Nova-Setup-1.2.2.exe",
+      "sha256": "dfae83a76f7dcd147035de4596165799bbad7bba177c829b639f5dd89e8a62b8",
+      "size": 2547635,
       "notes": [
-        "Итоговая проверка: обновление с 1.2.0 на 1.2.1"
+        "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
+        "«Отвязать этот компьютер» освобождает место для другого компьютера",
+        "Pro продлевается сам, без интернета работает до 14 дней"
       ]
     }
   }
