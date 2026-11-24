@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-24T20:14:03Z",
+  "issued": "2026-11-24T20:15:18Z",
   "apps": {
     "halo": {
       "version": "1.2.3",
@@ -13,10 +13,10 @@
       ]
     },
     "aurora": {
-      "version": "1.2.2",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.2/SYRO-Aurora-Setup-1.2.2.exe",
-      "sha256": "404cb60fad096dc707468b08154719609e73b4242ffbfbbc90f2fcda9b62b7dc",
-      "size": 2754340,
+      "version": "1.2.3",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.3/SYRO-Aurora-Setup-1.2.3.exe",
+      "sha256": "061c6902eab48500584fd25e110fb75bd4e25a88ba44b10f353075bd9af406cf",
+      "size": 2754223,
       "notes": [
         "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
         "«Отвязать этот компьютер» освобождает место для другого компьютера",
