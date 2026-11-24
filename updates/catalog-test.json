@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-24T20:09:45Z",
+  "issued": "2026-11-24T20:10:53Z",
   "apps": {
     "halo": {
       "version": "1.2.2",
@@ -24,12 +24,14 @@
       ]
     },
     "pulsar": {
-      "version": "1.2.1",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.1/SYRO-Pulsar-Setup-1.2.1.exe",
-      "sha256": "f1800663306c7ade96bf0d62fccc919dc9d29ffab2d36cdf24417585b2e3fceb",
-      "size": 2899864,
+      "version": "1.2.2",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.2/SYRO-Pulsar-Setup-1.2.2.exe",
+      "sha256": "2ed5ee34ec93b6849ac99fb23afd8164dee73a58d7aa843a664cc61118f3714a",
+      "size": 2902398,
       "notes": [
-        "Итоговая проверка: обновление с 1.2.0 на 1.2.1"
+        "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
+        "«Отвязать этот компьютер» освобождает место для другого компьютера",
+        "Pro продлевается сам, без интернета работает до 14 дней"
       ]
     },
     "nova": {
