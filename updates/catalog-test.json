@@ -1,11 +1,11 @@
 {
-  "issued": "2026-11-24T20:12:03Z",
+  "issued": "2026-11-24T20:14:03Z",
   "apps": {
     "halo": {
-      "version": "1.2.2",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.2/SYRO-Halo-Setup-1.2.2.exe",
-      "sha256": "e25623a9d4fc750ac385ed8b05879e3b85213db552fd44b77bdf8c20f30c40b8",
-      "size": 2713293,
+      "version": "1.2.3",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.3/SYRO-Halo-Setup-1.2.3.exe",
+      "sha256": "71fa26bb8bdacd26004c5b364145c3b94992b95665dfaeb25eb3aca12217af58",
+      "size": 2712967,
       "notes": [
         "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
         "«Отвязать этот компьютер» освобождает место для другого компьютера",
