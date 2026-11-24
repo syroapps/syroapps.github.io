@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-24T20:30:23Z",
+  "issued": "2026-11-24T20:31:19Z",
   "apps": {
     "halo": {
       "version": "1.2.4",
@@ -12,14 +12,13 @@
       ]
     },
     "aurora": {
-      "version": "1.2.3",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.3/SYRO-Aurora-Setup-1.2.3.exe",
-      "sha256": "061c6902eab48500584fd25e110fb75bd4e25a88ba44b10f353075bd9af406cf",
-      "size": 2754223,
+      "version": "1.2.4",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.4/SYRO-Aurora-Setup-1.2.4.exe",
+      "sha256": "ac25e057259a4e41a5ea60ce5ad87960e0f695deac091356fed240f4f87cd670",
+      "size": 2754419,
       "notes": [
-        "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
-        "«Отвязать этот компьютер» освобождает место для другого компьютера",
-        "Pro продлевается сам, без интернета работает до 14 дней"
+        "Исправлено: «Отвязать этот компьютер» показывал «нет связи», хотя компьютер отвязывался",
+        "Активация Pro через сервер SYRO"
       ]
     },
     "pulsar": {
