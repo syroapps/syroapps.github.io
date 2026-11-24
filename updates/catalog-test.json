@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-24T20:07:13Z",
+  "issued": "2026-11-24T20:09:45Z",
   "apps": {
     "halo": {
       "version": "1.2.2",
@@ -13,12 +13,14 @@
       ]
     },
     "aurora": {
-      "version": "1.2.1",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.1/SYRO-Aurora-Setup-1.2.1.exe",
-      "sha256": "b7525c3ee8b2ed9e4da8af4119bdac39a647e9eb8bf1e7731c0d5ea0a3cf26d8",
-      "size": 2752480,
+      "version": "1.2.2",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.2/SYRO-Aurora-Setup-1.2.2.exe",
+      "sha256": "404cb60fad096dc707468b08154719609e73b4242ffbfbbc90f2fcda9b62b7dc",
+      "size": 2754340,
       "notes": [
-        "Итоговая проверка: обновление с 1.2.0 на 1.2.1"
+        "Активация Pro через сервер SYRO: ключ превращается в лицензию для этого компьютера",
+        "«Отвязать этот компьютер» освобождает место для другого компьютера",
+        "Pro продлевается сам, без интернета работает до 14 дней"
       ]
     },
     "pulsar": {
