@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-26T18:36:06Z",
+  "issued": "2026-11-26T19:37:58Z",
   "apps": {
     "halo": {
       "version": "1.3.1",
@@ -14,13 +14,13 @@
       ]
     },
     "aurora": {
-      "version": "1.2.4",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.4/SYRO-Aurora-Setup-1.2.4.exe",
-      "sha256": "ac25e057259a4e41a5ea60ce5ad87960e0f695deac091356fed240f4f87cd670",
-      "size": 2754419,
+      "version": "1.2.5",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.5/SYRO-Aurora-Setup-1.2.5.exe",
+      "sha256": "416385c58a1d7d96dc36ce2d159072ee40ea1d138cd5f0b3d45bda3f7a07b77f",
+      "size": 2762088,
       "notes": [
-        "Исправлено: «Отвязать этот компьютер» показывал «нет связи», хотя компьютер отвязывался",
-        "Активация Pro через сервер SYRO"
+        "Pro: покраска папки вместе со всеми папками внутри — одинаково или «умно», по содержимому",
+        "Ход работы, «Стоп» и «Отменить»"
       ]
     },
     "pulsar": {
