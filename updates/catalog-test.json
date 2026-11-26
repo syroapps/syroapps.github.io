@@ -1,15 +1,16 @@
 {
-  "issued": "2026-11-26T12:33:23Z",
+  "issued": "2026-11-26T12:43:51Z",
   "apps": {
     "halo": {
-      "version": "1.2.6",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.6/SYRO-Halo-Setup-1.2.6.exe",
-      "sha256": "2c52d162517bae417e53a963c530a0d1a0dc23bb5a9f414addb10cde9cdf9ea9",
-      "size": 2719368,
+      "version": "1.2.7",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.7/SYRO-Halo-Setup-1.2.7.exe",
+      "sha256": "16f07fd062e4407eb8e86177626e65e957e99e35b4b7bb37d47d7f1becb297b4",
+      "size": 2720790,
       "notes": [
+        "Pro: подменю — нажмите на пункт-подменю, круг сменится его пунктами; назад — центр круга, Esc или ←",
         "Бесплатно — 5 пунктов; с Pro — от 3 до 8 в каждом меню",
-        "Pro: до 5 меню — колесо над центром круга или клавиши ← → переключают меню",
-        "Если Pro закончился — пункты с замком можно убрать по одному или кнопкой «Убрать всё с замком»"
+        "Pro: до 5 меню — колесо над центром круга или ← →",
+        "Если Pro закончился — всё с замком можно убрать"
       ]
     },
     "aurora": {
