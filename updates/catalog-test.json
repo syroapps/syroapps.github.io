@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-26T20:36:07Z",
+  "issued": "2026-11-26T21:30:12Z",
   "apps": {
     "halo": {
       "version": "1.3.1",
@@ -14,14 +14,14 @@
       ]
     },
     "aurora": {
-      "version": "1.2.7",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.7/SYRO-Aurora-Setup-1.2.7.exe",
-      "sha256": "4d0fb0b2c6c3bb46cc74ef27d9504ce193f8e29ac035d1e73551d66915b7eaa1",
-      "size": 2772722,
+      "version": "1.2.8",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.8/SYRO-Aurora-Setup-1.2.8.exe",
+      "sha256": "efff6bb1c0c47b902c24a71552c194180b193613ae02550a91972976fe982942",
+      "size": 2779599,
       "notes": [
-        "Pro: 6 новых наборов по 6 значков — Учёба, Дом, Деньги, Путешествия, Важное, Проекты",
-        "Надпись или цветной эмодзи на папке (до 4 знаков)",
-        "Своя картинка — на папке или целиком"
+        "Pro: «Мои наборы» — сохранить вид папки и ставить его в один клик",
+        "Своя кнопка вызова — любая кнопка мыши или сочетание клавиш",
+        "Перенос настроек в файл и обратно"
       ]
     },
     "pulsar": {
