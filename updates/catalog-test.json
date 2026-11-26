@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-26T19:37:58Z",
+  "issued": "2026-11-26T19:58:27Z",
   "apps": {
     "halo": {
       "version": "1.3.1",
@@ -14,13 +14,13 @@
       ]
     },
     "aurora": {
-      "version": "1.2.5",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.5/SYRO-Aurora-Setup-1.2.5.exe",
-      "sha256": "416385c58a1d7d96dc36ce2d159072ee40ea1d138cd5f0b3d45bda3f7a07b77f",
-      "size": 2762088,
+      "version": "1.2.6",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/aurora-1.2.6/SYRO-Aurora-Setup-1.2.6.exe",
+      "sha256": "0b083a888c3d761845711beeea9b63238e3969593a4a128f694a71fa7de47ea6",
+      "size": 2765369,
       "notes": [
-        "Pro: покраска папки вместе со всеми папками внутри — одинаково или «умно», по содержимому",
-        "Ход работы, «Стоп» и «Отменить»"
+        "Pro: свой цвет папки — по палитре или коду (#FF8800)",
+        "«Мои цвета»: до 10 своих цветов, правая кнопка — изменить или удалить"
       ]
     },
     "pulsar": {
