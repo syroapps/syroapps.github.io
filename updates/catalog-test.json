@@ -1,14 +1,15 @@
 {
-  "issued": "2026-11-24T20:32:25Z",
+  "issued": "2026-11-26T12:12:25Z",
   "apps": {
     "halo": {
-      "version": "1.2.4",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.4/SYRO-Halo-Setup-1.2.4.exe",
-      "sha256": "7aab20fe42ef80af27acbc5c24ea09c48dbd4c2fe52b1f04a68114f7a25b015c",
-      "size": 2712718,
+      "version": "1.2.5",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.2.5/SYRO-Halo-Setup-1.2.5.exe",
+      "sha256": "99b2e896f9f1db02623577384d18d2ff1a1b3dbd56ea759d55072a2df30f9ad5",
+      "size": 2717998,
       "notes": [
-        "Исправлено: «Отвязать этот компьютер» показывал «нет связи», хотя компьютер отвязывался",
-        "Активация Pro через сервер SYRO"
+        "Pro: до 5 меню — колесо над центром круга или клавиши ← → переключают меню",
+        "Pro: 8 пунктов вместо 6",
+        "Если Pro закончился — настройки сохраняются, лишнее показано с замком"
       ]
     },
     "aurora": {
