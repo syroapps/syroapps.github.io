@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-27T08:46:14Z",
+  "issued": "2026-11-27T09:59:14Z",
   "apps": {
     "halo": {
       "version": "1.3.1",
@@ -24,13 +24,12 @@
       ]
     },
     "pulsar": {
-      "version": "1.2.4",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.4/SYRO-Pulsar-Setup-1.2.4.exe",
-      "sha256": "92e2536c93cc74ce5db297681fff61e34170071ab6c6148c4eb1f5c9d7d0352c",
-      "size": 2901918,
+      "version": "1.2.5",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.5/SYRO-Pulsar-Setup-1.2.5.exe",
+      "sha256": "d50ad4dd219b8e2b1ed6a2762ec9d7c2d8411e89af8c09d3edd31ac67d2cc75b",
+      "size": 2902208,
       "notes": [
-        "Исправлено: «Отвязать этот компьютер» показывал «нет связи», хотя компьютер отвязывался",
-        "Активация Pro через сервер SYRO"
+        "Календарь: дни недели и метка «Сегодня» больше не наезжают друг на друга в узком окне"
       ]
     },
     "nova": {
