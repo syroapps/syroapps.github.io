@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-27T11:15:22Z",
+  "issued": "2026-11-27T12:01:26Z",
   "apps": {
     "halo": {
       "version": "1.3.1",
@@ -24,13 +24,14 @@
       ]
     },
     "pulsar": {
-      "version": "1.2.8",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.8/SYRO-Pulsar-Setup-1.2.8.exe",
-      "sha256": "1fa6f928901d803eee70d8741df734ede4c174aa9108bf4381533c0a1de57db9",
-      "size": 2906991,
+      "version": "1.2.9",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.9/SYRO-Pulsar-Setup-1.2.9.exe",
+      "sha256": "24381858940ec686d4ccbfba3a4e9570fbff4ee0b88f4e2353d325ab9b21ea0f",
+      "size": 2916124,
       "notes": [
-        "Pro: шаблоны — набор задач ставится в календарь одним нажатием",
-        "Pro: поиск по задачам (Ctrl+F) и фильтр по проектам"
+        "Pro: статистика месяца",
+        "Pro: выгрузка в Google Календарь или на телефон (.ics) и печать месяца",
+        "Pro: своя кнопка вызова и перенос календаря в файл"
       ]
     },
     "nova": {
