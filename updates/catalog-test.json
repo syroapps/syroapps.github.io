@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-27T10:32:02Z",
+  "issued": "2026-11-27T10:54:58Z",
   "apps": {
     "halo": {
       "version": "1.3.1",
@@ -24,15 +24,13 @@
       ]
     },
     "pulsar": {
-      "version": "1.2.6",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.6/SYRO-Pulsar-Setup-1.2.6.exe",
-      "sha256": "30195d2f2481231416e88e18db919cd0efc7eca8d2a1302bd6ba79b66b4e982f",
-      "size": 2896723,
+      "version": "1.2.7",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.2.7/SYRO-Pulsar-Setup-1.2.7.exe",
+      "sha256": "9237b8a0d8357d9ef80dc74ed08be01c0c6806f56294aa4ff64a24eea56714cb",
+      "size": 2900226,
       "notes": [
-        "Pulsar — календарь дел: свои проекты вместо площадок соцсетей",
-        "При первом открытии — «Как назовём ваш первый проект?»",
-        "Бесплатно — до 3 проектов",
-        "Убрана вставка плана из Claude"
+        "Pro: любые повторы — каждый день, по будням, раз в 2–4 недели, каждый месяц (число или день недели), каждый год",
+        "Pro: чек-лист в задаче с галочками"
       ]
     },
     "nova": {
