@@ -1,5 +1,5 @@
 {
-  "issued": "2026-11-28T16:13:33Z",
+  "issued": "2026-11-28T16:14:49Z",
   "apps": {
     "halo": {
       "version": "1.3.2",
@@ -20,15 +20,12 @@
       ]
     },
     "pulsar": {
-      "version": "1.3.0",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.3.0/SYRO-Pulsar-Setup-1.3.0.exe",
-      "sha256": "2b9f9202a0b9c7407dc285fb80f724b7cf18d4210d30953c4363410ef128c080",
-      "size": 2917160,
+      "version": "1.3.1",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/pulsar-1.3.1/SYRO-Pulsar-Setup-1.3.1.exe",
+      "sha256": "f285ca6786275a06ba2def0ba2aa91fc5d977b5a7a7082049c7a39dc254927b7",
+      "size": 3050122,
       "notes": [
-        "Pulsar для любых дел: свои проекты вместо площадок, в бесплатной версии — до 3",
-        "Исправлена ошибка календаря",
-        "Pro: повторы на любой ритм, чек-листы, шаблоны, поиск и фильтр, статистика, выгрузка в другой календарь и печать месяца, быстрая запись горячей клавишей",
-        "Убрана вставка плана из Claude"
+        "Окно «Что даёт Pro» — нажмите на плашку PRO"
       ]
     },
     "nova": {
