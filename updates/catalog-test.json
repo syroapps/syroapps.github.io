@@ -1,16 +1,13 @@
 {
-  "issued": "2026-11-27T14:46:07Z",
+  "issued": "2026-11-28T16:12:28Z",
   "apps": {
     "halo": {
-      "version": "1.3.1",
-      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.3.1/SYRO-Halo-Setup-1.3.1.exe",
-      "sha256": "78468adc14b28b86be160e223bf9a910ea0ba57fa162ff6e3697a3eb419298e6",
-      "size": 2728929,
+      "version": "1.3.2",
+      "url": "https://github.com/syroapps/syroapps.github.io/releases/download/halo-1.3.2/SYRO-Halo-Setup-1.3.2.exe",
+      "sha256": "981a4944305f678591cf05d25caafb17743b0939d4416261dcf88cd46b78ef9f",
+      "size": 2846473,
       "notes": [
-        "SYRO Halo Pro: до 5 меню, от 3 до 8 пунктов, подменю",
-        "Pro: действия — музыка, громкость, блокировка, сон, скриншот, «открыть несколько сразу»",
-        "Pro: свои значки, своя кнопка вызова, перенос настроек",
-        "Бесплатно — 5 пунктов"
+        "Окно «Что даёт Pro» — нажмите на плашку PRO"
       ]
     },
     "aurora": {
